@@ -10,7 +10,7 @@ import bcrypt
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
-app = Flask("bleedingheart-api")
+app = Flask("hatsuverse-api")
 CORS(app)
 
 @app.route("/")
