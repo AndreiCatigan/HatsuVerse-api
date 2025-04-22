@@ -64,11 +64,15 @@ def authorize_user(uname, pw):
             return -1, ""
         account = accounts[uname]
         hashed = account["hash"].encode()
-        if bcrypt.hashpw(pw.encode(), hashed):
+        
+        # FIXED: Properly check hashed password
+        if bcrypt.checkpw(pw.encode(), hashed):
             user_level = account["userLevel"]
             full_name = account["fullName"]
             return user_level, full_name
+
         return -1, ""
+
 def generate_access_token(uname, user_level):
     """ Create a session token. """
     # Use standard approaches (like JWT) in your future projects.
