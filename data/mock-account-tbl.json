@@ -1,0 +1,30 @@
+{
+    "sethyawa": {
+        "id": "e8c46f2a-8f58-5386-9542-3a7d555e9035",
+        "fullName": "Seth Geth",
+        "hash": "$2b$12$.q5v1AgfyTUoCf38soYKhudqNYTmjr5Q8EUGHgRyxwmuzS04r0d5i",
+        "userLevel": 0,
+        "createdAt": 1745308056
+    },
+    "justinbeplop": {
+        "id": "5c3a4eb3-59bf-5426-9ea1-6cfc81dcba19",
+        "fullName": "justin",
+        "hash": "$2b$12$cGNyTWoB7Zbf6.W7HnJJrOXLMXYwnWq13rqGOW64J5zvwn.GH9XRa",
+        "userLevel": 1,
+        "createdAt": 1745308111
+    },
+    "piadops": {
+        "id": "85092fdc-f199-5ab5-b2e4-aab69d8ae52e",
+        "fullName": "Piadopers",
+        "hash": "$2b$12$8R0HOMIITTAMWvlHURddOe9Ggo2r7EovN8mjS8eRRmHTxNc9ywjuG",
+        "userLevel": 2,
+        "createdAt": 1745308226
+    },
+    "andreipogie": {
+        "id": "4ca1974f-6540-533e-a45d-52822d064c26",
+        "fullName": "Andrei",
+        "hash": "$2b$12$t59OF5D4bBU7WWOq1mVRj.s9JgOfLv9q9O03wl7q6laFHEEW9LBQ6",
+        "userLevel": 3,
+        "createdAt": 1745308334
+    }
+}
