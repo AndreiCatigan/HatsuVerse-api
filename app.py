@@ -1,5 +1,5 @@
 """
-    HatsuVerse-API v0.9.0
+    NeuroSystem-API v0.9.0
     (c) 2025 HatsuVerse Inc.
 """
 import json
